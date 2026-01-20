@@ -53,5 +53,3 @@
 - 📫 Email: [ayantik.sarkar2020@gmail.com]
 
 ---
-
-> *Branch doesn’t define capability. Skills do.*
