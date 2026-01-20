@@ -1,16 +1,61 @@
-## Hi there 👋
+## Hi there 👋, I'm Ayantik Sarkar
 
-<!--
-**ayantik2006/ayantik2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (Next.js + TypeScript)  
+⚡ Real-Time Applications & Systems  
+🧠 DSA + Backend & System Design (in progress)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Undergraduate at **NIT Rourkela (Civil Engineering)**, actively transitioning into **software & tech**
+- 🌱 Currently focused on **Data Structures & Algorithms**, scalable backend systems, and real-time apps
+- 🧩 I like building **end-to-end products** — clean UI, solid backend, real use-cases
+- 🎯 Goal: Crack **top tech companies** through skills, projects, and consistency
+- 🤝 Open to **Internships, Freelance work, and meaningful collaborations**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Frontend
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- shadcn/ui
+
+#### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Socket.IO (WebSockets)
+- JWT Authentication
+
+#### Database
+- MongoDB
+- Mongoose
+
+#### Dev & Tools
+- Git & GitHub
+- Postman
+- Vercel
+- Render
+
+---
+
+### 📈 Currently Working On
+- Strengthening **DSA & problem-solving**
+- Deepening knowledge of **backend architecture & system design**
+- Building **production-grade full-stack projects**
+
+---
+
+### 🔗 Connect With Me
+- 🌐 Portfolio: [https://your-portfolio-link](https://ayantik.onrender.com/)
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ayantiksarkar/)
+- 📫 Email: [ayantik.sarkar2020@gmail.com]
+
+---
+
+> *Branch doesn’t define capability. Skills do.*
