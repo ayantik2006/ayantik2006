@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ayantik Sarkar
+# Hi there 👋, I'm Ayantik Sarkar
 
 🚀 Full Stack Developer (Next.js + TypeScript)  
 ⚡ Real-Time Applications & Systems  
