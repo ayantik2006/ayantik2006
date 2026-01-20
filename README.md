@@ -18,29 +18,25 @@
 ### 🛠️ Tech Stack & Tools
 
 #### Frontend
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- shadcn/ui
+ ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) 
+ ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
+ ![React](https://img.shields.io/badge/React-black?logo=react)
+ ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+ ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
 
 #### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Socket.IO (WebSockets)
-- JWT Authentication
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
 
 #### Database
-- MongoDB
-- Mongoose
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 
 #### Dev & Tools
-- Git & GitHub
-- Postman
-- Vercel
-- Render
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?logo=postman)
 
 ---
 
