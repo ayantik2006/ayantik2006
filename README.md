@@ -48,7 +48,7 @@
 ---
 
 ### 🔗 Connect With Me
-- 🌐 Portfolio: [Portfolio](https://ayantik.onrender.com/)
+- 🌐 Portfolio: [Portfolio](https://ayantiksarkar.com)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayantiksarkar/)
 - 📫 Email: [ayantik.sarkar2020@gmail.com]
 
